@@ -28,6 +28,7 @@
   {"id":27,"title":"Best Selling Course 7","category":"Best Sellers","description":"Boost your career with this popular and practical course.","image":"https://link-to-course-image.jpg","videosCount":100,"rating":4.7,"reviews":18000,"price":58.99},
   {"id":28,"title":"Best Selling Course 8","category":"Best Sellers","description":"Top-rated content with high student satisfaction.","image":"https://link-to-course-image.jpg","videosCount":120,"rating":4.9,"reviews":22500,"price":65.99},
   {"id":29,"title":"Best Selling Course 9","category":"Best Sellers","description":"Learn advanced skills and techniques in this bestseller.","image":"https://link-to-course-image.jpg","videosCount":110,"rating":4.8,"reviews":20000,"price":60.99},
-  {"id":30,"title":"Best Selling Course 10","category":"Best Sellers","description":"Highly recommended course by thousands of learners.","image":"https://link-to-course-image.jpg","videosCount":95,"rating":4.7,"reviews":19000,"price":57.99}
+  {"id":30,"title":"Best Selling Course 10","category":"Best Sellers","description":"Highly recommended course by thousands of learners.","image":"https://source.unsplash.com/600x400/?react,web-development","videosCount":95,"rating":4.7,"reviews":19000,"price":57.99}
 ]
+
 
