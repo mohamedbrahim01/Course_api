@@ -19,7 +19,7 @@
   {"id":18,"title":"Leadership Skills","category":"Self Development","description":"Learn key leadership skills to lead teams effectively and drive results.","image":"https://link-to-course-image.jpg","videosCount":60,"rating":4.8,"reviews":9500,"price":39.99},
   {"id":19,"title":"Emotional Intelligence","category":"Self Development","description":"Improve your EQ to enhance relationships and professional performance.","image":"https://link-to-course-image.jpg","videosCount":45,"rating":4.7,"reviews":8100,"price":35.99},
   {"id":20,"title":"Personal Finance Essentials","category":"Self Development","description":"Learn to manage your money and plan for financial freedom.","image":"https://link-to-course-image.jpg","videosCount":50,"rating":4.6,"reviews":7700,"price":32.99},
-  {"id":21,"title":"Best Selling Course 1","category":"Best Sellers","description":"This is one of the most popular courses among learners worldwide.","image":"https://link-to-course-image.jpg","videosCount":100,"rating":4.9,"reviews":20000,"price":59.99},
+  {"id":21,"title":"Best Selling Course 1","category":"Best Sellers","description":"This is one of the most popular courses among learners worldwide.","image":"https://source.unsplash.com/600x400/?language,learning","videosCount":100,"rating":4.9,"reviews":20000,"price":59.99},
   {"id":22,"title":"Best Selling Course 2","category":"Best Sellers","description":"Learn essential skills from one of the top courses in the market.","image":"https://link-to-course-image.jpg","videosCount":90,"rating":4.8,"reviews":18500,"price":54.99},
   {"id":23,"title":"Best Selling Course 3","category":"Best Sellers","description":"Highly rated course with excellent reviews from thousands of students.","image":"https://link-to-course-image.jpg","videosCount":110,"rating":4.9,"reviews":22000,"price":64.99},
   {"id":24,"title":"Best Selling Course 4","category":"Best Sellers","description":"Top-rated course for mastering advanced concepts quickly.","image":"https://link-to-course-image.jpg","videosCount":95,"rating":4.8,"reviews":19000,"price":59.99},
@@ -30,3 +30,4 @@
   {"id":29,"title":"Best Selling Course 9","category":"Best Sellers","description":"Learn advanced skills and techniques in this bestseller.","image":"https://link-to-course-image.jpg","videosCount":110,"rating":4.8,"reviews":20000,"price":60.99},
   {"id":30,"title":"Best Selling Course 10","category":"Best Sellers","description":"Highly recommended course by thousands of learners.","image":"https://link-to-course-image.jpg","videosCount":95,"rating":4.7,"reviews":19000,"price":57.99}
 ]
+
